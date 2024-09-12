@@ -20,5 +20,19 @@ export const DeployedProjectsData = [
         imageURL: "https://i.postimg.cc/xdm4ynTm/Untitled-design.png",
         link: "https://github.com/upes-open/Open-Birthday-Mailer",
     },
+    {
+        name: "Lost And Found",
+        description: "A webapp for the university that will ease the process of retrieving lost items. It is a big problem when you lose valuable items, and in that scenario, it becomes helpful if you are able to see through a list of items found lately, and luckily, if you do find your item there, then you save a lot of time and sweat. So what are you waiting for?",
+        keywords : "NodeJS, MongoDB, ReactJS",        
+        imageURL: "https://i.postimg.cc/5tH8Pvx3/Whats-App-Image-2023-08-20-at-17-14-35.jpg",
+        link: "https://github.com/upes-open/OSoC-Lost-And-Found-WebApp",
+    },
+    {
+        name: "MediaMorph",
+        description: " Introducing MediaMorph , the ultimate Chrome extension for transforming your video - watching adventures . This powerful tool enhances video player functionalities , allowing you to take control of your content like never before . Elevate your video - watching experience today with MediaMorph .\n Key Features: Video Speed Mastery, Sound Amplifier, Text Extraction Made Easy, Clickable Video Links, Picture-in-Picture, YouTube Shorts Control       ",
+        keywords : "Html, CSS, JavaScript",        
+        imageURL: "https://i.postimg.cc/fykNtYT9/Whats-App-Image-2023-11-02-at-10-12-04-473a5282.jpg",
+        link: "/MediaMorph",
+    },
 
 ];

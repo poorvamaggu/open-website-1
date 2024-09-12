@@ -77,6 +77,8 @@ export default function Header() {
                     <div className="header-social">
                       <ul>
                         <li><a href="https://twitter.com/UpesOpen"><span className="fab fa-twitter" /></a></li>
+                        <li><a href="https://discord.gg/FyFgtY27Wf"><span className="fab fa-discord"/></a></li>
+                        <li><a href="https://github.com/upes-open"><span className="fab fa-github"/></a></li>
                         <li><a href="https://www.instagram.com/upesopen_/"><span className="fab fa-instagram" /></a></li>
                         <li><a href="https://www.youtube.com/channel/UCxdpyRSNdAKQ6R6Jpv_-nKQ"><span className="fab fa-youtube" /></a></li>
                         <li><a href="https://www.linkedin.com/company/open-community/mycompany/"><span className="fab fa-linkedin" /></a></li>
@@ -86,7 +88,7 @@ export default function Header() {
                       <ul>
                         <li>
                           <div className="header-top-mail">
-                            <p><span>|</span><i className="far fa-envelope" /><Link to="/mailto:info@gmail.com">opencommunity@ddn.upes.ac.in</Link></p>
+                            <p><span>|</span><i className="far fa-envelope" /><Link to="/mailto:info@gmail.com">upesopen@gmail.com</Link></p>
                           </div>
                         </li>
                       </ul>
