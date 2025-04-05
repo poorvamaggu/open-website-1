@@ -1,6 +1,7 @@
 import Footer from "../../components/footer/Footer";
 import Header from "../../components/header/Header";
-import RegisterArea from "./RegisterArea";
+// import RegisterArea from "./RegisterArea";
+import OsocRegister from "./Osoc_register";
 
 export default function Register() {
   return (
@@ -11,7 +12,7 @@ export default function Register() {
       <br />
       <br />
       <main>
-        <RegisterArea />
+        <OsocRegister />
       </main>
       <Footer />
     </>

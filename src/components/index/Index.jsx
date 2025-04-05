@@ -9,7 +9,8 @@ import Gallery from './Gallery';
 import DeployedProjects from '../../pages/projectpage/DeployedProjects'
 import UpcomingEvent from '../../pages/eventpage/UpcomingEvent'
 import OpenLearning from '../../pages/aboutuspage/OpenLearning'
-
+import Barclays from '../../pages/vedant'
+import OutReachy from '../../pages/medhavi';
 
 function Index() {
   return (
@@ -18,6 +19,8 @@ function Index() {
       <main>
         <Slider />
         <UpcomingEvent />
+        <OutReachy/>
+        <Barclays/>
         <OpenLearning />
         <DeployedProjects />
         <Gallery />

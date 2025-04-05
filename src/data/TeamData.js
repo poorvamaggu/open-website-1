@@ -1,127 +1,179 @@
 export const TeamData = [
   {
-    name: "Dr. Gourav Bathla",
+    name: "Dr. Ambika Aggarwal",
     designation: "Faculty Convener",
-    imageURL: "https://i.postimg.cc/Xv4SNK27/gaurav-sir.png",
-    LinkedIn: "https://www.linkedin.com/in/dr-gourav-bathla-b2155913/",
-  },
-    {
-        name: "Raghav Agarwal",
-        designation: "President",
-        imageURL: "https://i.postimg.cc/hj2wt1bp/raghav.png",
-        GitHub: "https://github.com/ragharwal",
-        LinkedIn: "https://www.linkedin.com/in/ragharwal/",
-    },
-    {
-        name: "Snigdha Parashar",
-        designation: "Vice-President",
-        imageURL:
-      "https://i.postimg.cc/G284TTYV/snigdha.png",
-    LinkedIn: "https://www.linkedin.com/in/snigdha-parashar-022aaa23b/",
-    GitHub: "https://github.com/snigdha510",
-    },
-    {
-        name: "Ayushmaan Jha",
-        designation: "Treasuer",
-        imageURL:
-      "https://i.postimg.cc/66j09WsJ/Ayushmaan-Jha-1.png",
-    LinkedIn: "https://www.linkedin.com/in/ayushmaan-jha-90191a258/",
-    GitHub: "https://github.com/Ayushmaan-8",
-    },
-  {
-    name: "Vedant Saraf",
-    designation: "Collaboration Manager",
-    imageURL:
-      "https://i.postimg.cc/vTC3QDG7/vedant.png",
-    LinkedIn: "https://www.linkedin.com/in/vedant-saraf-8a71b31b4/",
-    GitHub: "https://github.com/vedantsaraf2002",
-  },
-  {
-    name: "Nandini Nanda",
-    designation: "Editorial Lead",
-    imageURL:
-      "https://i.postimg.cc/wT0Dc7Cw/nandini.png",
-    LinkedIn: "https://www.linkedin.com/in/nandini-nanda-835761205/",
-    GitHub: "https://github.com/NandiniNanda",
-  },
-  {
-    name: "Bharti Bhathotia",
-    designation: "PR and Events Lead",
-    imageURL: "https://i.postimg.cc/4x2MM495/bdd3537c-12e2-4d51-9fbe-eee718a4cb30-removebg-preview.png",
-    LinkedIn: 0,
-    GitHub: 0,
-  },
-  {
-    name: "Somyansh Avasthi",
-    designation: "Social Media Lead",
-    imageURL:
-      "https://i.postimg.cc/9fWLtCQc/somyansh.png",
-    LinkedIn: "https://www.linkedin.com/in/somyansh-avasthi/",
-    GitHub: "https://github.com/SomyanshAvasthi",
-  },
-  {
-    name: "Amrita Dimri",
-    designation: "Design Lead",
-    imageURL:
-      "https://i.postimg.cc/SNjM9QmN/amrita-removebg-preview.png",
-    LinkedIn: "https://www.linkedin.com/in/amrita-dimri-a26438234",
-    GitHub: "https://github.com/Chaos07Child/Chaos07Child",
-  },
-  {
-    name: "Bhavika Jetwani",
-    designation: "Website Lead",
-    imageURL:
-      "https://i.postimg.cc/TPpCHQgs/bhavika.png",
-    LinkedIn: "https://www.linkedin.com/in/bhavika-jetwani-a1b47a220/",
-    GitHub: "https://github.com/bhavika2502",
-  },
-  {
-    name: "Medhavi Singh",
-    designation: "Project Lead",
-    imageURL:
-      "https://i.postimg.cc/P5DJCDQZ/Medhavi-removebg-preview.png",
-    LinkedIn: "https://www.linkedin.com/in/medhavi-singh-8752091ba/",
-    GitHub: "https://github.com/Med16-11",
+    imageURL: "https://i.postimg.cc/bvwqYnvx/ambika-jpeg-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/dr-ambika-aggarwal-790458136",
   },
   {
     name: "Ashutosh Kapoor",
-    designation: "Ext. Collab. Lead",
-    imageURL:
-      "https://i.postimg.cc/52c4tkNB/Ashutosh-2.png",
+    designation: "President",
+    imageURL:"https://i.postimg.cc/52c4tkNB/Ashutosh-2.png",
     LinkedIn: "https://www.linkedin.com/in/kapoor0905/",
     GitHub: "https://github.com/Kapoor-0905",
   },
   {
-    name: "Manan Gupta",
-    designation: "Lead Student Developer",
-    imageURL:
-      "https://i.postimg.cc/wxmDMMhn/manan.png",
-    LinkedIn: "https://www.linkedin.com/in/manan-gupta-0359a3205/",
-    GitHub: "https://github.com/manangupta19",
-  },
-  {
     name: "Saarini Ritesh",
-    designation: "Lead Student Developer",
-    imageURL:
-      "https://i.postimg.cc/xCHrB9MB/saarini.png",
+    designation: "Vice-President",
+    imageURL: "https://i.postimg.cc/xCHrB9MB/saarini.png",
     LinkedIn: "https://www.linkedin.com/in/saariniritesh/",
     GitHub: "https://github.com/saarinii",
   },
   {
-    name: "Pawan Bajaj",
-    designation: "Lead Student Developer",
-    imageURL:
-      "https://i.postimg.cc/W1Pdy4rc/pawan.png",
-    LinkedIn: "https://www.linkedin.com/in/pawan-bajaj-7420121b8",
-    GitHub: "https://github.com/pavvann",
+    name: "Deepanshu Rawat",
+    designation: "Treasuer",
+    imageURL: "https://i.postimg.cc/fbHpJ3Ww/Clipped-image-20230619-201827.png",
+    LinkedIn: "https://www.linkedin.com/in/deepanshu-rawat6/",
+    GitHub: "https://github.com/deepanshu-rawat6",
   },
+
+  // ---------collaboration------
   {
     name: "Akanksha Gupta",
-    designation: "Lead Student Developer",
+    designation: "Collaboration Manager",
     imageURL:
       "https://i.postimg.cc/9FXXSNF1/akanksha.png",
     LinkedIn: "https://www.linkedin.com/in/akanksha-gupta-588046220",
-    GitHub: "https://github.com/akanksha2305", 
+    GitHub: "https://github.com/akanksha2305",
   },
+
+  {
+    name: "Avni Goyal",
+    designation: "Website Lead",
+    imageURL: "https://i.postimg.cc/4xQsmhzJ/Avni-Goyal-picture-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/avni-goyal25",
+    GitHub: "https://github.com/avnigoyal25",
+  },
+
+  {
+    name: "Anshika Srivastava",
+    designation: "Project Lead",
+    imageURL:
+      "https://i.postimg.cc/q72ntw1N/Anshika-Srivastava-removebg-preview.png",
+    LinkedIn: "http://linkedin.com/in/anshika-srivastava-443a6b250/",
+    GitHub: "http://github.com/anshikasrivastava17",
+  },
+
+
+  {
+    name: "Yadrishi Dixit",
+    designation: "Learning Program Lead",
+    imageURL: "https://i.postimg.cc/wTdxQPzS/Clipped-image-20230619-201814.png",
+    LinkedIn: "https://www.linkedin.com/in/yadrishi-dixit-094865229/",
+    GitHub: "https://github.com/Yadrishi",
+  },
+
+  {
+    name: "Abhinav Singh",
+    designation: "Design Lead",
+    imageURL: "https://i.postimg.cc/6pqx515h/pic-abhinav-singh-removebg-preview.png",
+    LinkedIn: "",
+    GitHub: "",
+  },
+
+  // ------engagement------
+
+  {
+    name: "Navinya Sawarkar",
+    designation: "Engagement Manager",
+    imageURL: "https://i.postimg.cc/9M69ppXJ/Clipped-image-20230619-203537.png",
+    LinkedIn: "https://www.linkedin.com/in/navinya-sawarkar/",
+    GitHub: "https://github.com/NavySaw23",
+  },
+
+  {
+    name: "Sejal Verma",
+    designation: "Editorial Lead",
+    imageURL: "https://i.postimg.cc/ZRySGwJ9/Untitled-design-removebg-preview.png",
+    LinkedIn: "",
+    GitHub: "",
+  },
+
+
+  {
+    name: "Abhinav Saini",
+    designation: "Photography Lead",
+    imageURL: "https://i.postimg.cc/R0P3JYcV/Abhinav-Saini-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/abhinav-saini-428898303/",
+    GitHub: "https://github.com/cybersecabhinav",
+  },
+
+  // ------marketing-----
+
+  {
+    name: "Vidhi Jaju",
+    designation: "Marketing Manager",
+    imageURL: "https://i.postimg.cc/dQGGSM2C/Clipped-image-20230619-201830.png",
+    LinkedIn: "http://www.linkedin.com/in/vidhi-jaju4274",
+    GitHub: "https://github.com/vidhi-jaju",
+  },
+
+
+  {
+    name: "Sejal Jaiswal",
+    designation: "Social Media Lead",
+    imageURL: "https://i.postimg.cc/3RRvLhKv/Sejal-Jaiswal-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/sejal-jaiswal-067885212",
+    GitHub: "",
+  },
+
+
+  {
+    name: "Dhruv Sharma",
+    designation: "PR Lead",
+    imageURL: "https://i.postimg.cc/hvQ7B0Q4/Dhruv-Sharma-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/dhruv-sharma-728813247",
+    GitHub: "https://github.com/2503dhruv",
+  },
+
+  {
+    name: "BHumi Singh",
+    designation: "PR Sub-Lead",
+    imageURL: "https://i.postimg.cc/0ykD6DLn/Bhumi-Singh-removebg-preview.png",
+    LinkedIn: "",
+    GitHub: "",
+  },
+  // -----lsds--------
+
+  {
+    name: "Manav Khandurie",
+    designation: "Lead Student Developer",
+    imageURL:
+      "https://i.postimg.cc/wBKzfQgc/Manav-Khandurie-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/manav-khandurie/",
+    GitHub: "https://github.com/Manav-Khandurie",
+  },
+
+  {
+    name: "Vaibhav Rawat",
+    designation: "Lead Student Developer",
+    imageURL: "https://i.postimg.cc/13G7SGDK/Vaibhav-Rawat-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/vaibhav-rawat2003/",
+    GitHub: "https://github.com/Vaibhav-Rawat03",
+  },
+  {
+    name: "Agrima Jain",
+    designation: "Lead Student Developer",
+    imageURL: "https://i.postimg.cc/W1YwZ0Zf/img-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/agrima-jain",
+    GitHub: "https://github.com/ughrima",
+  },
+
+  {
+    name: "Anchit Jain",
+    designation: "Lead Student Developer",
+    imageURL: "https://i.postimg.cc/0N5THWhS/Anchit-Das-removebg-preview.png",
+    LinkedIn: "http://linkedin.com/in/anchit-das-040141252/",
+    GitHub: "http://github.com/anchitd10",
+  },
+
+  {
+    name: "Akshit Bhutani",
+    designation: "Lead Student Developer",
+    imageURL: "https://i.postimg.cc/NM3PYpCp/Akshit-Bhutani-removebg-preview.png",
+    LinkedIn: "https://www.linkedin.com/in/akshit-bhutani-456471245/",
+    GitHub: "",
+  },
+
 
 ];
